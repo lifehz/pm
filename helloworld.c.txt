@@ -1,3 +1,5 @@
+// notes 1: This a C programm.
+
 #include <stdio.h>
 
 int main(void)
